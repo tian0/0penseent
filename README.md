@@ -1,4 +1,4 @@
-# OpenSeent
+# [OpenSeent](https://openseent.web.app/)
 
 A simple Ethereum-based decentralized application (dapp) for access to token-gated content. Based on the [ERC-721](https://erc721.org) standard, the OpenSeent NFT is minted by first being whitelisted, and then contributing sufficient funds via the [dapp](https://openseent.web.app/). A total of 0.3 testnet WETH (Wrapped Ether) are requested as a symbolic contribution to mint the NFT. Holding the NFT in an ethereum wallet serves as an identifier to access exclusive content. 
 
