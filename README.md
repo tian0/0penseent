@@ -10,7 +10,7 @@ If you do not have Metamask Installed:
 2. Switch network to Rinkeby
 2. Request Rinkeby faucet ETH
 3. Swap Rinkeby ETH for WETH on Uniswap
-4. Launch [OpenSeent](https://openseent.web.app/)
+4. Launch [OpenSeent](https://openseent-v1.web.app/)
 
 ---
 
